@@ -1,3 +1,30 @@
+This blog post is just a few that I either dislike or am currently facing. Such as the new issues recent grads will face, how to deal with the cold, and why NFT's are just way over hyped. It will also contain a news bar that will refresh every several seconds. 
+
+For this app we used react version 17.0.2, react-router-dom version 6.2.1, and axios version 0.24.0.
+
+1) Go to gitbhub and download the zip file of the app. Then upzip the file. 
+2) Move the file into the location where you would the app to be stored 
+3) Open terminal/command prompt and change the directory to where the file is located
+4) Then change the directory to the file
+5) Run the following commands below in the exact order as shown below
+
+npm install
+
+npm install react
+
+npm install react-router-dom 6.2.1
+
+npm isntall axios
+
+6) run npm start
+7) If a window does not pop up automatically then please try and manually go to localhost:3000 in your browser
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

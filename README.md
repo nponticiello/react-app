@@ -2,7 +2,7 @@ This blog post is just a few that I either dislike or am currently facing. Such 
 
 For this app we used react version 17.0.2, react-router-dom version 6.2.1, and axios version 0.24.0.
 
-1) Go to gitbhub and download the zip file of the app. Then upzip the file. 
+1) Go to github and download the zip file of the app. Then upzip the file. 
 2) Move the file into the location where you would the app to be stored 
 3) Open terminal/command prompt and change the directory to where the file is located
 4) Then change the directory to the file
